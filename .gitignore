@@ -1,0 +1,16 @@
+.zcode/
+**/.zcode/
+*.zip
+*.rho
+*.rho5
+*.pk
+*.exe
+*.dll
+app/runtime/
+app/user/
+**/installed.json
+Profile/
+profiles/
+logs/
+*.log
+__pycache__/

@@ -1,0 +1,91 @@
+{
+  "version": "V10-final-1.5x-share-v1",
+  "sourceCandidate": "nord-full-v10",
+  "coordinateScale": 1.5,
+  "clientBuild": "Korean P5136",
+  "clientExeSha256": "629f084e2a12c6fa1ff0ea603b90f8768454d13a1bc2df6a8504f8aa06fd6194",
+  "basePinSha256": "b3c3a4c29d091dd27c2ffb17f1bfdb60acbb2e7c2fd80bb6d8dea567b8d6aa44",
+  "baseRhoSha256": "68924585414c879e6666b83a00af3cd8d19c306e1b3ed0c259604351b5b42c58",
+  "baseAaaSha256": "34f031ebff5c35269f95f52919f9aec0237191bd364da7c2b10cbc66d7b9e505",
+  "finalRhoSha256": "3672df675abc5d481c4054a9589f7ca508b1f7ad6fad7259d5d0c566f402057c",
+  "finalAaaSha256": "2c8f392a9118d5f31fcb2e5ab5dbf9c8b51c1ef29e05968c2e91040a6e775515",
+  "serverExeSha256": "4cd90cc2f3d1bf91ef8ca00c73086849c4f8fd2114dec2b49dd7e21066075a07",
+  "localBasePort": 49311,
+  "nativeRangeLimit": 12000,
+  "physicalTriangles": 823686,
+  "courseTriangles": 18604,
+  "noPersonalProfilesIncluded": true,
+  "clientFileBytes": 3681296385,
+  "packageFiles": [
+    {
+      "path": "client-files.json",
+      "bytes": 119108,
+      "sha256": "b24e3459bfd9be80cd6913b184fcbfe8a2dcee151273ac6bb1eaf81eb1866d09"
+    },
+    {
+      "path": "defaults/KartRider.pin",
+      "bytes": 356,
+      "sha256": "b3c3a4c29d091dd27c2ffb17f1bfdb60acbb2e7c2fd80bb6d8dea567b8d6aa44"
+    },
+    {
+      "path": "defaults/KartRider.xml",
+      "bytes": 767,
+      "sha256": "249b99973d137288c715b04b04850c7c14d54973508be6c3cfc1527c07cdfedf"
+    },
+    {
+      "path": "defaults/mav.dat",
+      "bytes": 34,
+      "sha256": "59ec257f0563ec00ca0dcdfcf45f8f92e782cf1a1b3058a8486c95167d74c87b"
+    },
+    {
+      "path": "payload/aaa.pk",
+      "bytes": 50066,
+      "sha256": "2c8f392a9118d5f31fcb2e5ab5dbf9c8b51c1ef29e05968c2e91040a6e775515"
+    },
+    {
+      "path": "payload/track_village_R01.rho",
+      "bytes": 146580224,
+      "sha256": "3672df675abc5d481c4054a9589f7ca508b1f7ad6fad7259d5d0c566f402057c"
+    },
+    {
+      "path": "vendor/p5136-windows-x64.zip",
+      "bytes": 8614309,
+      "sha256": "63b9515588c5563940e2629fe890717e8166028d501e9b5deefdab43d6399c07"
+    },
+    {
+      "path": "vendor/P5136_Rust-v1.0.0-source.zip",
+      "bytes": 1436318,
+      "sha256": "489ce4e8a5bfd7ea82864f647cfa03dd66afd6479ea4b14c202f7b190635c8a2"
+    },
+    {
+      "path": "../launcher/Common.ps1",
+      "bytes": 1221,
+      "sha256": "c6e6243422c5410edbad26e54fb0b7235cbc7ef619e35309de0624410f4a1436"
+    },
+    {
+      "path": "../launcher/Install.ps1",
+      "bytes": 4159,
+      "sha256": "66819cbc8db2e46a503183c5cd2e94abee39726ab117d46b6877ad5addc80af7"
+    },
+    {
+      "path": "../launcher/NativeLog.ps1",
+      "bytes": 2242,
+      "sha256": "894aa72c4995641005cae7706963e4037d908842b43fac4008ace59afa74c7f5"
+    },
+    {
+      "path": "../launcher/Play.ps1",
+      "bytes": 5494,
+      "sha256": "2fd71066b13c5e458da10b6295d7d65cb9a36f273caab7506f264dc7d0dc5ea3"
+    },
+    {
+      "path": "../launcher/RangePatch.cs",
+      "bytes": 17997,
+      "sha256": "ec6724c99891d49cc63dedd1fa50c5d24402ba8496042221c7a06627c803155f"
+    },
+    {
+      "path": "../launcher/Start.ps1",
+      "bytes": 599,
+      "sha256": "f5bacb2a102ed4376f3ee4685ca2bb9c69c0f9f4db0f4dba01dfbaecdd5c76e4"
+    }
+  ]
+}

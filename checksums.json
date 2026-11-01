@@ -1,0 +1,25 @@
+{
+  "client": {
+    "name": "KartRider_5136.zip",
+    "build": "Korean P5136",
+    "downloadPage": "https://www.mediafire.com/file/4vz8t1k0sra1pb3/KartRider_5136.zip/file",
+    "bytes": 3157308012,
+    "sha256": "3c532cab31fe4226ade999c52331c364144c0e09003098150ab0c49e4de3da6e",
+    "digestProvenance": "Local validated sample, not a publisher signature",
+    "exeSha256": "629f084e2a12c6fa1ff0ea603b90f8768454d13a1bc2df6a8504f8aa06fd6194",
+    "baseRhoSha256": "68924585414c879e6666b83a00af3cd8d19c306e1b3ed0c259604351b5b42c58",
+    "baseAaaSha256": "34f031ebff5c35269f95f52919f9aec0237191bd364da7c2b10cbc66d7b9e505"
+  },
+  "patch": {
+    "name": "Nordschleife-P5136-Final-1.5x-v1.zip",
+    "url": "https://github.com/fatandfat/popkart-nord-circuit/releases/download/v1.0.0/Nordschleife-P5136-Final-1.5x-v1.zip",
+    "bytes": 155875922,
+    "sha256": "a0f182a058ce663e1b34ede6ad28b1f7c60c56ce4c100b7d41d7f17ae9a4fb07",
+    "version": "V10-final-1.5x-share-v1"
+  },
+  "server": {
+    "release": "v1.0.0",
+    "archiveSha256": "63b9515588c5563940e2629fe890717e8166028d501e9b5deefdab43d6399c07",
+    "exeSha256": "4cd90cc2f3d1bf91ef8ca00c73086849c4f8fd2114dec2b49dd7e21066075a07"
+  }
+}
