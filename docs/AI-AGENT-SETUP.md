@@ -53,7 +53,7 @@ if ($LASTEXITCODE -ne 0) { throw 'Patch installation failed; inspect the complet
     -ClientDirectory $client -Destination 'D:\Games\NordPatch'
 ```
 
-安装器会复制官方 ZIP 文件清单中的所需文件，使用干净默认配置，不复制用户的 `Profile`，并生成 `app/installed.json`。成功前不要启动游戏。已安装目录会做身份检查并直接返回；半安装目录不会被自动清空或覆盖。
+安装器会复制本项目已验证 ZIP 文件清单中的所需文件，使用干净默认配置，不复制用户的 `Profile`，并生成 `app/installed.json`。成功前不要启动游戏。已安装目录会做身份检查并直接返回；半安装目录不会被自动清空或覆盖。
 
 ## 阶段 C：安装后验证，不启动游戏
 
